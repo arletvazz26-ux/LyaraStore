@@ -1,0 +1,1065 @@
+{
+  "c": [
+    {
+      "id": 1777782021000,
+      "n": "Vale Falcon",
+      "no": ""
+    },
+    {
+      "id": 1778379400911,
+      "n": "Novio de Vale",
+      "no": ""
+    },
+    {
+      "id": 1778545606223,
+      "n": "Litzy Hermana de Vale",
+      "no": ""
+    },
+    {
+      "id": 1778877597435,
+      "n": "Amiga David UVM",
+      "no": ""
+    },
+    {
+      "id": 1778877959263,
+      "n": "David UVM",
+      "no": ""
+    },
+    {
+      "id": 1778877982410,
+      "n": "Amigo David UVM Alicia",
+      "no": ""
+    }
+  ],
+  "v": [
+    {
+      "id": 1778379685234,
+      "ci": 1778379400911,
+      "pr": "Adidas Grises",
+      "productos": [
+        {
+          "nombre": "Adidas Grises",
+          "talla": "27",
+          "tallas2": "",
+          "marca": "Adidas",
+          "cantidad": 1,
+          "color": "",
+          "costo": 1099,
+          "precio": 1600,
+          "fpedidoProd": "",
+          "fentregaProd": ""
+        }
+      ],
+      "precio": 1600,
+      "en": 0,
+      "plan": "q",
+      "pc": 1099,
+      "pv": 1600,
+      "fv": "2026-05-10",
+      "fpedido": "2026-01-25",
+      "fentrega": "",
+      "p": [
+        {
+          "num": 1,
+          "f": "2026-02-15",
+          "m": 200,
+          "ok": true,
+          "fp": "2026-02-15",
+          "mReal": 200
+        },
+        {
+          "num": 2,
+          "f": "2026-02-28",
+          "m": 320,
+          "ok": true,
+          "fp": "2026-03-02",
+          "mReal": 320
+        },
+        {
+          "num": 3,
+          "f": "2026-03-15",
+          "m": 300,
+          "ok": true,
+          "fp": "2026-03-15",
+          "mReal": 300
+        },
+        {
+          "num": 4,
+          "f": "2026-03-31",
+          "m": 340,
+          "ok": true,
+          "fp": "2026-04-01",
+          "mReal": 340
+        },
+        {
+          "num": 5,
+          "f": "2026-04-15",
+          "m": 320,
+          "ok": true,
+          "fp": "2026-04-15",
+          "mReal": 320
+        }
+      ],
+      "done": true,
+      "libre": false
+    },
+    {
+      "id": 1778380793553,
+      "ci": 1777782021000,
+      "pr": "Mameluco M, Mameluco H, Suéter Gris con rayas, Chanclitas 2x, Chamarras Valentina 2x, Pantalón Vestir Gris, Pantalón Vestir Vino, Flats Kit 3 Pares, Tenis Hummer, Saco Camel, Saco Vino, Botas Beigue (2), Chamarra Beigue Peluche Cafe",
+      "productos": [
+        {
+          "nombre": "Mameluco M",
+          "talla": "M",
+          "tallas2": "",
+          "marca": "Disney",
+          "cantidad": 1,
+          "color": "",
+          "costo": 549,
+          "precio": 850,
+          "fpedidoProd": "",
+          "fentregaProd": ""
+        },
+        {
+          "nombre": "Mameluco H",
+          "talla": "M",
+          "tallas2": "",
+          "marca": "Disney",
+          "cantidad": 1,
+          "color": "",
+          "costo": 549,
+          "precio": 850,
+          "fpedidoProd": "",
+          "fentregaProd": ""
+        },
+        {
+          "nombre": "Suéter Gris con rayas",
+          "talla": "M",
+          "tallas2": "",
+          "marca": "Sao Paulo",
+          "cantidad": 1,
+          "color": "",
+          "costo": 349,
+          "precio": 530,
+          "fpedidoProd": "",
+          "fentregaProd": ""
+        },
+        {
+          "nombre": "Chanclitas 2x",
+          "talla": "24-25",
+          "tallas2": "",
+          "marca": "",
+          "cantidad": 2,
+          "color": "",
+          "costo": 259,
+          "precio": 350,
+          "fpedidoProd": "",
+          "fentregaProd": ""
+        },
+        {
+          "nombre": "Chamarras Valentina 2x",
+          "talla": "5-6",
+          "tallas2": "",
+          "marca": "HL",
+          "cantidad": 1,
+          "color": "",
+          "costo": 638,
+          "precio": 970,
+          "fpedidoProd": "",
+          "fentregaProd": ""
+        },
+        {
+          "nombre": "Pantalón Vestir Gris",
+          "talla": "L",
+          "tallas2": "",
+          "marca": "HL",
+          "cantidad": 1,
+          "color": "",
+          "costo": 349,
+          "precio": 490,
+          "fpedidoProd": "",
+          "fentregaProd": ""
+        },
+        {
+          "nombre": "Pantalón Vestir Vino",
+          "talla": "L",
+          "tallas2": "",
+          "marca": "HL",
+          "cantidad": 1,
+          "color": "",
+          "costo": 349,
+          "precio": 490,
+          "fpedidoProd": "",
+          "fentregaProd": ""
+        },
+        {
+          "nombre": "Flats Kit 3 Pares",
+          "talla": "24",
+          "tallas2": "",
+          "marca": "Pink",
+          "cantidad": 1,
+          "color": "",
+          "costo": 599,
+          "precio": 880,
+          "fpedidoProd": "",
+          "fentregaProd": ""
+        },
+        {
+          "nombre": "Tenis Hummer",
+          "talla": "29",
+          "tallas2": "",
+          "marca": "Hummer",
+          "cantidad": 1,
+          "color": "",
+          "costo": 749,
+          "precio": 1250,
+          "fpedidoProd": "",
+          "fentregaProd": ""
+        },
+        {
+          "nombre": "Saco Camel",
+          "talla": "M",
+          "tallas2": "",
+          "marca": "HL",
+          "cantidad": 1,
+          "color": "",
+          "costo": 499,
+          "precio": 780,
+          "fpedidoProd": "",
+          "fentregaProd": ""
+        },
+        {
+          "nombre": "Saco Vino",
+          "talla": "M",
+          "tallas2": "",
+          "marca": "HL",
+          "cantidad": 1,
+          "color": "",
+          "costo": 529,
+          "precio": 830,
+          "fpedidoProd": "",
+          "fentregaProd": ""
+        },
+        {
+          "nombre": "Botas Beigue (2)",
+          "talla": "23,24",
+          "tallas2": "",
+          "marca": "LTL",
+          "cantidad": 1,
+          "color": "",
+          "costo": 658,
+          "precio": 1060,
+          "fpedidoProd": "",
+          "fentregaProd": ""
+        },
+        {
+          "nombre": "Chamarra Beigue Peluche Cafe",
+          "talla": "M",
+          "tallas2": "",
+          "marca": "HL",
+          "cantidad": 1,
+          "color": "",
+          "costo": 599,
+          "precio": 900,
+          "fpedidoProd": "",
+          "fentregaProd": ""
+        }
+      ],
+      "precio": 10580,
+      "en": 0,
+      "plan": "l",
+      "pc": 6934,
+      "pv": 10580,
+      "fv": "2026-05-10",
+      "fpedido": "2025-12-16",
+      "fentrega": "",
+      "p": [
+        {
+          "num": 2,
+          "f": "2026-01-31",
+          "m": 430,
+          "ok": true,
+          "fp": "2026-01-31",
+          "nota": "Sobrante de cuenta anterior"
+        },
+        {
+          "num": 3,
+          "f": "2026-02-15",
+          "m": 1000,
+          "ok": true,
+          "fp": "2026-02-15",
+          "nota": "Abono global"
+        },
+        {
+          "num": 4,
+          "f": "2026-03-02",
+          "m": 1000,
+          "ok": true,
+          "fp": "2026-03-02",
+          "nota": "Abono global"
+        },
+        {
+          "num": 5,
+          "f": "2026-03-15",
+          "m": 1000,
+          "ok": true,
+          "fp": "2026-03-15",
+          "nota": "Abono global"
+        },
+        {
+          "num": 6,
+          "f": "2026-04-01",
+          "m": 1000,
+          "ok": true,
+          "fp": "2026-04-01",
+          "nota": "Abono global"
+        },
+        {
+          "num": 7,
+          "f": "2026-04-15",
+          "m": 1000,
+          "ok": true,
+          "fp": "2026-04-15"
+        },
+        {
+          "num": 8,
+          "f": "2026-05-01",
+          "m": 1000,
+          "ok": true,
+          "fp": "2026-05-01"
+        },
+        {
+          "num": 8,
+          "f": "2025-12-15",
+          "m": 1055,
+          "ok": true,
+          "fp": "2025-12-15",
+          "mReal": 1055,
+          "nota": "Abono"
+        }
+      ],
+      "done": false,
+      "libre": true
+    },
+    {
+      "id": 1778381130242,
+      "ci": 1777782021000,
+      "pr": "Sudadera Rosa, Saco Gris rayado, Short Falda Gris rayada, Pantalón de vestir Negro",
+      "productos": [
+        {
+          "nombre": "Sudadera Rosa",
+          "talla": "M",
+          "tallas2": "",
+          "marca": "LTL",
+          "cantidad": 1,
+          "color": "Rosa",
+          "costo": 259,
+          "precio": 360,
+          "fpedidoProd": "",
+          "fentregaProd": ""
+        },
+        {
+          "nombre": "Saco Gris rayado",
+          "talla": "M",
+          "tallas2": "",
+          "marca": "HL",
+          "cantidad": 1,
+          "color": "Gris",
+          "costo": 469,
+          "precio": 650,
+          "fpedidoProd": "",
+          "fentregaProd": ""
+        },
+        {
+          "nombre": "Short Falda Gris rayada",
+          "talla": "L",
+          "tallas2": "",
+          "marca": "HL",
+          "cantidad": 1,
+          "color": "Gris",
+          "costo": 269,
+          "precio": 380,
+          "fpedidoProd": "",
+          "fentregaProd": ""
+        },
+        {
+          "nombre": "Pantalón de vestir Negro",
+          "talla": "L",
+          "tallas2": "",
+          "marca": "HL",
+          "cantidad": 1,
+          "color": "Negro",
+          "costo": 349,
+          "precio": 490,
+          "fpedidoProd": "",
+          "fentregaProd": ""
+        }
+      ],
+      "precio": 1880,
+      "en": 0,
+      "plan": "l",
+      "pc": 1346,
+      "pv": 1880,
+      "fv": "2026-05-10",
+      "fpedido": "2026-01-25",
+      "fentrega": "",
+      "p": [],
+      "done": false,
+      "libre": true
+    },
+    {
+      "id": 1778381746532,
+      "ci": 1777782021000,
+      "pr": "Pantalón de vestir Azul, Suéter Largo Negro, Chaleco Café, Sudadera Belinda, Pans Belinda, Tacones Negros Belinda, Short Playero Azul",
+      "productos": [
+        {
+          "nombre": "Pantalón de vestir Azul",
+          "talla": "L",
+          "tallas2": "",
+          "marca": "HL",
+          "cantidad": 1,
+          "color": "",
+          "costo": 349,
+          "precio": 350,
+          "fpedidoProd": "",
+          "fentregaProd": ""
+        },
+        {
+          "nombre": "Suéter Largo Negro",
+          "talla": "M",
+          "tallas2": "",
+          "marca": "Sao Paulo",
+          "cantidad": 1,
+          "color": "",
+          "costo": 249,
+          "precio": 350,
+          "fpedidoProd": "",
+          "fentregaProd": ""
+        },
+        {
+          "nombre": "Chaleco Café",
+          "talla": "M",
+          "tallas2": "",
+          "marca": "HL",
+          "cantidad": 1,
+          "color": "",
+          "costo": 419,
+          "precio": 650,
+          "fpedidoProd": "",
+          "fentregaProd": ""
+        },
+        {
+          "nombre": "Sudadera Belinda",
+          "talla": "M",
+          "tallas2": "",
+          "marca": "Belinda",
+          "cantidad": 1,
+          "color": "",
+          "costo": 359,
+          "precio": 450,
+          "fpedidoProd": "",
+          "fentregaProd": ""
+        },
+        {
+          "nombre": "Pans Belinda",
+          "talla": "M",
+          "tallas2": "",
+          "marca": "Belinda",
+          "cantidad": 1,
+          "color": "",
+          "costo": 359,
+          "precio": 560,
+          "fpedidoProd": "",
+          "fentregaProd": ""
+        },
+        {
+          "nombre": "Tacones Negros Belinda",
+          "talla": "24",
+          "tallas2": "",
+          "marca": "Belinda",
+          "cantidad": 1,
+          "color": "",
+          "costo": 509,
+          "precio": 750,
+          "fpedidoProd": "",
+          "fentregaProd": ""
+        },
+        {
+          "nombre": "Short Playero Azul",
+          "talla": "L",
+          "tallas2": "",
+          "marca": "HL",
+          "cantidad": 1,
+          "color": "",
+          "costo": 219,
+          "precio": 320,
+          "fpedidoProd": "",
+          "fentregaProd": ""
+        }
+      ],
+      "precio": 3430,
+      "en": 0,
+      "plan": "l",
+      "pc": 2463,
+      "pv": 3430,
+      "fv": "2026-05-10",
+      "fpedido": "2026-03-04",
+      "fentrega": "",
+      "p": [],
+      "done": false,
+      "libre": true
+    },
+    {
+      "id": 1778381940418,
+      "ci": 1777782021000,
+      "pr": "Tetera, Short Barbie, Blusa Azul cielo, Camisa Olivo, Suéter Tejido Rojo, Top Tejido Rojo, Camisa Azul, Apalgata Rosa, Zapatilla Roja Belinda",
+      "productos": [
+        {
+          "nombre": "Tetera",
+          "talla": "",
+          "tallas2": "",
+          "marca": "Disney",
+          "cantidad": 1,
+          "color": "",
+          "costo": 729,
+          "precio": 1050,
+          "fpedidoProd": "",
+          "fentregaProd": ""
+        },
+        {
+          "nombre": "Short Barbie",
+          "talla": "L",
+          "tallas2": "",
+          "marca": "Disney",
+          "cantidad": 1,
+          "color": "Negro",
+          "costo": 319,
+          "precio": 470,
+          "fpedidoProd": "",
+          "fentregaProd": ""
+        },
+        {
+          "nombre": "Blusa Azul cielo",
+          "talla": "L",
+          "tallas2": "",
+          "marca": "HL",
+          "cantidad": 1,
+          "color": "",
+          "costo": 249,
+          "precio": 380,
+          "fpedidoProd": "",
+          "fentregaProd": ""
+        },
+        {
+          "nombre": "Camisa Olivo",
+          "talla": "L",
+          "tallas2": "",
+          "marca": "HL",
+          "cantidad": 1,
+          "color": "",
+          "costo": 279,
+          "precio": 430,
+          "fpedidoProd": "",
+          "fentregaProd": ""
+        },
+        {
+          "nombre": "Suéter Tejido Rojo",
+          "talla": "L",
+          "tallas2": "",
+          "marca": "Sao P",
+          "cantidad": 1,
+          "color": "",
+          "costo": 299,
+          "precio": 450,
+          "fpedidoProd": "",
+          "fentregaProd": ""
+        },
+        {
+          "nombre": "Top Tejido Rojo",
+          "talla": "L",
+          "tallas2": "",
+          "marca": "Sao P",
+          "cantidad": 1,
+          "color": "",
+          "costo": 199,
+          "precio": 300,
+          "fpedidoProd": "",
+          "fentregaProd": ""
+        },
+        {
+          "nombre": "Camisa Azul",
+          "talla": "L",
+          "tallas2": "",
+          "marca": "HL",
+          "cantidad": 1,
+          "color": "",
+          "costo": 309,
+          "precio": 450,
+          "fpedidoProd": "",
+          "fentregaProd": ""
+        },
+        {
+          "nombre": "Apalgata Rosa",
+          "talla": "24",
+          "tallas2": "",
+          "marca": "Vi Line",
+          "cantidad": 1,
+          "color": "",
+          "costo": 459,
+          "precio": 660,
+          "fpedidoProd": "",
+          "fentregaProd": ""
+        },
+        {
+          "nombre": "Zapatilla Roja Belinda",
+          "talla": "24",
+          "tallas2": "",
+          "marca": "Roja",
+          "cantidad": 1,
+          "color": "",
+          "costo": 499,
+          "precio": 780,
+          "fpedidoProd": "",
+          "fentregaProd": ""
+        }
+      ],
+      "precio": 4970,
+      "en": 0,
+      "plan": "l",
+      "pc": 3341,
+      "pv": 4970,
+      "fv": "2026-05-10",
+      "fpedido": "2026-03-02",
+      "fentrega": "",
+      "p": [],
+      "done": false,
+      "libre": true
+    },
+    {
+      "id": 1778382284819,
+      "ci": 1778379400911,
+      "pr": "Adidas Grises Vale, Bañador  Azul, Rebook Negros 29",
+      "productos": [
+        {
+          "nombre": "Adidas Grises Vale",
+          "talla": "24",
+          "tallas2": "",
+          "marca": "Adidas",
+          "cantidad": 1,
+          "color": "",
+          "costo": 1269,
+          "precio": 1770,
+          "fpedidoProd": "",
+          "fentregaProd": ""
+        },
+        {
+          "nombre": "Bañador  Azul",
+          "talla": "M",
+          "tallas2": "",
+          "marca": "Next",
+          "cantidad": 1,
+          "color": "",
+          "costo": 299,
+          "precio": 460,
+          "fpedidoProd": "",
+          "fentregaProd": ""
+        },
+        {
+          "nombre": "Rebook Negros 29",
+          "talla": "29",
+          "tallas2": "",
+          "marca": "Rebook",
+          "cantidad": 1,
+          "color": "",
+          "costo": 799,
+          "precio": 1100,
+          "fpedidoProd": "",
+          "fentregaProd": ""
+        }
+      ],
+      "precio": 3330,
+      "en": 0,
+      "plan": "q",
+      "pc": 2367,
+      "pv": 3330,
+      "fv": "2026-05-10",
+      "fpedido": "2026-03-20",
+      "fentrega": "",
+      "p": [
+        {
+          "num": 1,
+          "f": "2026-03-30",
+          "m": 660,
+          "ok": true,
+          "fp": "2026-04-01",
+          "mReal": 660
+        },
+        {
+          "num": 2,
+          "f": "2026-04-15",
+          "m": 680,
+          "ok": true,
+          "fp": "2026-04-15",
+          "mReal": 680
+        },
+        {
+          "num": 3,
+          "f": "2026-04-30",
+          "m": 658.0,
+          "ok": true,
+          "fp": "2026-05-01",
+          "mReal": 1000
+        },
+        {
+          "num": 4,
+          "f": "2026-05-15",
+          "m": 324,
+          "ok": false,
+          "fp": null
+        },
+        {
+          "num": 5,
+          "f": "2026-05-31",
+          "m": 666.0,
+          "ok": false,
+          "fp": null
+        }
+      ],
+      "done": false,
+      "libre": false
+    },
+    {
+      "id": 1778382428008,
+      "ci": 1778379400911,
+      "pr": "Pantalón Mezclilla, Pants  Gris, Michel Domit 27",
+      "productos": [
+        {
+          "nombre": "Pantalón Mezclilla",
+          "talla": "34",
+          "tallas2": "",
+          "marca": "",
+          "cantidad": 1,
+          "color": "",
+          "costo": 449,
+          "precio": 650,
+          "fpedidoProd": "",
+          "fentregaProd": ""
+        },
+        {
+          "nombre": "Pants  Gris",
+          "talla": "L",
+          "tallas2": "",
+          "marca": "Prokenex",
+          "cantidad": 1,
+          "color": "",
+          "costo": 349,
+          "precio": 550,
+          "fpedidoProd": "",
+          "fentregaProd": ""
+        },
+        {
+          "nombre": "Michel Domit 27",
+          "talla": "27",
+          "tallas2": "",
+          "marca": "MD",
+          "cantidad": 1,
+          "color": "",
+          "costo": 1929,
+          "precio": 2600,
+          "fpedidoProd": "",
+          "fentregaProd": ""
+        }
+      ],
+      "precio": 3800,
+      "en": 0,
+      "plan": "q",
+      "pc": 2727,
+      "pv": 3800,
+      "fv": "2026-05-10",
+      "fpedido": "2026-04-20",
+      "fentrega": "",
+      "p": [
+        {
+          "num": 1,
+          "f": "2026-05-15",
+          "m": 760,
+          "ok": false,
+          "fp": null
+        },
+        {
+          "num": 2,
+          "f": "2026-05-31",
+          "m": 760,
+          "ok": false,
+          "fp": null
+        },
+        {
+          "num": 3,
+          "f": "2026-06-15",
+          "m": 760,
+          "ok": false,
+          "fp": null
+        },
+        {
+          "num": 4,
+          "f": "2026-06-30",
+          "m": 760,
+          "ok": false,
+          "fp": null
+        },
+        {
+          "num": 5,
+          "f": "2026-07-15",
+          "m": 760,
+          "ok": false,
+          "fp": null
+        }
+      ],
+      "done": false,
+      "libre": false
+    },
+    {
+      "id": 1778531391180,
+      "ci": 1777782021000,
+      "pr": "Blusas 2x Gris y Rosa, Pantalón de Mezclilla 2x, Pantalón Mom, Pantalón Mom, Suéter Café",
+      "productos": [
+        {
+          "nombre": "Blusas 2x Gris y Rosa",
+          "talla": "M",
+          "tallas2": "",
+          "marca": "HL",
+          "cantidad": 1,
+          "color": "",
+          "costo": 279,
+          "precio": 350,
+          "fpedidoProd": "",
+          "fentregaProd": ""
+        },
+        {
+          "nombre": "Pantalón de Mezclilla 2x",
+          "talla": "9",
+          "tallas2": "",
+          "marca": "AtmDn",
+          "cantidad": 1,
+          "color": "",
+          "costo": 398,
+          "precio": 700,
+          "fpedidoProd": "",
+          "fentregaProd": ""
+        },
+        {
+          "nombre": "Pantalón Mom",
+          "talla": "11",
+          "tallas2": "",
+          "marca": "SE",
+          "cantidad": 1,
+          "color": "",
+          "costo": 319,
+          "precio": 600,
+          "fpedidoProd": "",
+          "fentregaProd": ""
+        },
+        {
+          "nombre": "Pantalón Mom",
+          "talla": "11",
+          "tallas2": "",
+          "marca": "SE",
+          "cantidad": 1,
+          "color": "",
+          "costo": 419,
+          "precio": 620,
+          "fpedidoProd": "",
+          "fentregaProd": ""
+        },
+        {
+          "nombre": "Suéter Café",
+          "talla": "M",
+          "tallas2": "",
+          "marca": "Primark",
+          "cantidad": 1,
+          "color": "",
+          "costo": 199,
+          "precio": 300,
+          "fpedidoProd": "",
+          "fentregaProd": ""
+        }
+      ],
+      "precio": 2570,
+      "en": 0,
+      "plan": "l",
+      "pc": 1614,
+      "pv": 2570,
+      "fv": "2026-05-11",
+      "fpedido": "2025-12-15",
+      "fentrega": "",
+      "entregasExtra": [],
+      "p": [
+        {
+          "num": 1,
+          "f": "2025-12-30",
+          "m": 1000,
+          "ok": true,
+          "fp": "2025-12-30"
+        },
+        {
+          "num": 2,
+          "f": "2026-01-16",
+          "m": 1000,
+          "ok": true,
+          "fp": "2026-01-16"
+        },
+        {
+          "num": 3,
+          "f": "2026-01-31",
+          "m": 1000,
+          "ok": true,
+          "fp": "2026-01-31"
+        }
+      ],
+      "done": true,
+      "libre": true
+    },
+    {
+      "id": 1778546323361,
+      "ci": 1778379400911,
+      "pr": "Puma Rojos",
+      "productos": [
+        {
+          "nombre": "Puma Rojos",
+          "talla": "27",
+          "tallas2": "",
+          "marca": "Puma",
+          "cantidad": 1,
+          "color": "",
+          "costo": 699,
+          "precio": 1000,
+          "fpedidoProd": "",
+          "fentregaProd": ""
+        }
+      ],
+      "precio": 1000,
+      "en": 0,
+      "plan": "q",
+      "pc": 699,
+      "pv": 1000,
+      "fv": "2026-05-12",
+      "fpedido": "2025-12-29",
+      "fentrega": "",
+      "entregasExtra": [],
+      "p": [
+        {
+          "num": 1,
+          "f": "2026-01-15",
+          "m": 200,
+          "ok": true,
+          "fp": "2026-01-16",
+          "mReal": 200
+        },
+        {
+          "num": 2,
+          "f": "2026-01-31",
+          "m": 200,
+          "ok": true,
+          "fp": "2026-01-31",
+          "mReal": 200
+        },
+        {
+          "num": 3,
+          "f": "2026-02-15",
+          "m": 200,
+          "ok": true,
+          "fp": "2026-02-15",
+          "mReal": 200
+        },
+        {
+          "num": 4,
+          "f": "2026-02-28",
+          "m": 200,
+          "ok": true,
+          "fp": "2026-03-02",
+          "mReal": 200
+        },
+        {
+          "num": 5,
+          "f": "2026-03-15",
+          "m": 200,
+          "ok": true,
+          "fp": "2026-03-15",
+          "mReal": 200
+        }
+      ],
+      "done": true,
+      "libre": false
+    },
+    {
+      "id": 1778877722428,
+      "ci": 1778877597435,
+      "pr": "Jersey Mexico",
+      "productos": [
+        {
+          "nombre": "Jersey Mexico",
+          "talla": "M",
+          "tallas2": "",
+          "marca": "Adidas",
+          "cantidad": 1,
+          "color": "",
+          "costo": 1699,
+          "precio": 2200,
+          "fpedidoProd": "",
+          "fentregaProd": ""
+        }
+      ],
+      "precio": 2200,
+      "en": 0,
+      "plan": "q",
+      "pc": 1699,
+      "pv": 2200,
+      "fv": "2026-05-15",
+      "fpedido": "2026-04-21",
+      "fentrega": "",
+      "entregasExtra": [],
+      "p": [
+        {
+          "num": 1,
+          "f": "2026-05-15",
+          "m": 440,
+          "ok": false,
+          "fp": null
+        },
+        {
+          "num": 2,
+          "f": "2026-05-31",
+          "m": 440,
+          "ok": false,
+          "fp": null
+        },
+        {
+          "num": 3,
+          "f": "2026-06-15",
+          "m": 440,
+          "ok": false,
+          "fp": null
+        },
+        {
+          "num": 4,
+          "f": "2026-06-30",
+          "m": 440,
+          "ok": false,
+          "fp": null
+        },
+        {
+          "num": 5,
+          "f": "2026-07-15",
+          "m": 440,
+          "ok": false,
+          "fp": null
+        }
+      ],
+      "done": false,
+      "libre": false
+    }
+  ],
+  "h": [],
+  "exportado": "2026-05-15",
+  "version": "5"
+}
